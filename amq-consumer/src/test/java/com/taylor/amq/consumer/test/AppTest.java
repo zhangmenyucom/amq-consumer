@@ -1,4 +1,4 @@
-package com.taylor.amq_consumer;
+package com.taylor.amq.consumer.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
